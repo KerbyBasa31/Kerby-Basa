@@ -1,0 +1,49 @@
+body {
+  background: url('https://weblium.com/blog/wp-content/uploads/2019/07/2_1-2.jpg?x20863');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: #303179;
+  border-style: ridge;
+  border-color: #ed7966;
+  text-align: center;
+  padding: 20px;
+  color: #ed7966;
+}
+
+.NavigationBar {
+  overflow: hidden;
+  background-color: #203647;
+  border-style: ridge;
+  border-color: #4da8da;
+}
+
+.navtext {
+ padding: 8px;
+ float: left;
+ color: #4da8da;
+ font-size: 17px;
+ display: inline;
+}
+
+.navtext:hover {
+   background-color: #e5e5e5;
+}
+
+.navtext:link {
+   text-decoration: none;
+}
+
+.Problem {
+   margin: 25px 50px 75px;
+   font-size: large;
+   color: white;
+   text-shadow:
+   -1px -1px 0 #000,  
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   1px 1px 0 #000;
+}

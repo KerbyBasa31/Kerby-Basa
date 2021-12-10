@@ -1,0 +1,49 @@
+body {
+  background: url('https://www.teahub.io/photos/full/21-211657_cool-background-png-windows-10-background-3d.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: darkblue;
+  border-style: ridge;
+  border-color: cyan;
+  text-align: center;
+  padding: 20px;
+  color: cyan;
+}
+
+.NavigationBar {
+  overflow: hidden;
+  background-color: black;
+  border-style: ridge;
+  border-color: white;
+}
+
+.navtext {
+ padding: 8px;
+ float: left;
+ color: white;
+ font-size: 17px;
+ display: inline;
+}
+
+.navtext:hover {
+   background-color: #e5e5e5;
+}
+
+.navtext:link {
+   text-decoration: none;
+}
+
+.text {
+  color: cyan;
+  font: Arial;
+  font-size: 150%;
+  text-shadow:
+  -1px -1px 0 #000,  
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}

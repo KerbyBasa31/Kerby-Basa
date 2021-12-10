@@ -1,0 +1,48 @@
+body {
+  background: url('https://get.wallhere.com/photo/video-games-Portal-game-black-background-1353059.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: #4B0082;
+  border-color: cyan;
+  border-style: ridge;
+  text-align: center;
+  padding: 20px;
+  color: cyan
+}
+
+.navtab {
+   overflow: hidden;
+   background-color: red;
+   border-style: ridge;
+   border-color: yellow;
+}
+
+.navtext {
+   padding: 8px;
+   float: left;
+   color: yellow;
+   font: Arial, sans-serif;
+   display: inline; 
+}
+
+.navtext:hover {
+   background-color: #e5e5e5;
+}
+
+.navtext:link {
+   text-decoration: none;
+}
+
+.product {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}

@@ -1,0 +1,49 @@
+body {
+  background: url('https://www.lifewire.com/thmb/YjtiHZ_76P_GdRtQsjSUUwQ-e3c=/650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wallhaven-5919d60a5f9b58f4c04e8b26.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: #2c4096;
+  border-style: ridge;
+  border-color: #8bbef3;
+  text-align: center;
+  padding: 20px;
+  color: #fdd422;
+}
+
+.NavigationBar {
+  overflow: hidden;
+  background-color: #fa6164;
+  border-style: ridge;
+  border-color: #c73967;
+}
+
+.navtext {
+ padding: 8px;
+ float: left;
+ color: #fdd422;
+ font-size: 17px;
+ display: inline;
+}
+
+.navtext:hover {
+   background-color: #e5e5e5;
+}
+
+.navtext:link {
+   text-decoration: none;
+}
+
+.text {
+   color: white;
+   font-size: large;
+   margin: 25px 50px 75px;
+   text-shadow:
+   -1px -1px 0 #000,  
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   1px 1px 0 #000;
+}

@@ -1,0 +1,65 @@
+body {
+  background: url('https://wallpaperaccess.com/full/417693.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: #1b667e;
+  border-style: ridge;
+  border-color: #548ea3;
+  text-align: center;
+  padding: 20px;
+  color: #45b4d4;
+}
+
+.NavigationBar {
+  overflow: hidden;
+  background-color: #1b667e; 
+  border-style: ridge;
+  border-color: #548ea3;
+}
+
+.navtext {
+ padding: 8px;
+ float: left;
+ color: #45b4d4;
+ font-size: 17px;
+ display: inline;
+}
+
+.navtext:hover {
+   background-color: #e5e5e5;
+}
+
+.navtext:link {
+   text-decoration: none;
+}
+
+.subtitle {
+  color: cyan;
+  font: Arial;
+  font-size: 150%;
+}
+
+.text {
+  color: white;
+  font: Arial;
+  font-size: Large;
+  margin: 25px 50px 75px;
+  text-shadow:
+  -1px -1px 0 #000,  
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+
+.surveyresults {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;   
+}
